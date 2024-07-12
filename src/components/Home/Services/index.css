@@ -1,0 +1,15 @@
+
+.service-img img{
+    border-radius: 5px;
+    box-shadow: 0px 0px 30px 0px rgba(0, 42, 106, 0.1)
+}
+.service-content h2{
+    color: #09afd1;
+    font-size: 36px;
+    font-weight: bold;
+}
+img.I-img-fluid {
+    border-bottom-left-radius: 65px;
+    border-top-right-radius: 50px;
+
+}
